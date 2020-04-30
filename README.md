@@ -1,5 +1,5 @@
 # matlab_13c_csi
-Process 13C CSI acquisitions in Matlab
+Process Hyperpolarized carbon-13 and xenon-129 spectroscopic magnetic resonance images using CSI and EPSI pulse sequences in Matlab.
 
 A comprehensive library to process and visualize MRI images obtained from Varian and Bruker scanners. 
 * Visualize dicom images and retrieve their metadata.
